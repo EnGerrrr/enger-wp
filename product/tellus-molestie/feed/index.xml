@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Tellus Molestie	</title>
+	<atom:link href="https://engerrrr.github.io/enger-wp/product/tellus-molestie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://engerrrr.github.io/enger-wp/product/tellus-molestie/</link>
+	<description></description>
+	<lastBuildDate>Tue, 16 Apr 2024 09:12:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>
+		By: John Doe		</title>
+		<link>https://engerrrr.github.io/enger-wp/product/tellus-molestie/#comment-4</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Fri, 14 Jan 2022 17:44:58 +0000</pubDate>
+		<guid isPermaLink="false">https://demo.creativethemes.com/blocksy/floreo/?post_type=product&#038;p=86#comment-4</guid>
+
+					<description><![CDATA[A diam maecenas sed enim. Feugiat sed lectus vestibulum mattis ullamcorper velit. Sit amet mauris commodo quis. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.
+
+Elit ullamcorper dignissim cras tincidunt lobortis. Ipsum nunc aliquet bibendum enim facilisis gravida. Vitae turpis massa sed elementum.]]></description>
+			<content:encoded><![CDATA[<p>A diam maecenas sed enim. Feugiat sed lectus vestibulum mattis ullamcorper velit. Sit amet mauris commodo quis. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.</p>
+<p>Elit ullamcorper dignissim cras tincidunt lobortis. Ipsum nunc aliquet bibendum enim facilisis gravida. Vitae turpis massa sed elementum.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
